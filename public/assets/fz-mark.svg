@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="FZ monogram">
+  <rect width="220" height="220" fill="#111111"/>
+  <g fill="#F6F4EC">
+    <path d="M40 52H179L160 76H67V96H120L105 117H67V168H40Z"/>
+    <path d="M153 76H183L116 168H86Z"/>
+  </g>
+  <path d="M120 148H185L171 168H106Z" fill="#C7FF2E"/>
+</svg>
